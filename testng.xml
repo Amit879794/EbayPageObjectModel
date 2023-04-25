@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test thread-count="5" parallel="tests" name="Ebay">
+    <classes>
+      <class name="testcases.Scenario1"/>
+      <class name="testcases.Scenario2"/>
+    </classes>
+  </test> <!-- Sample -->
+</suite> <!-- Suite -->
